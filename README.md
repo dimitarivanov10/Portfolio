@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio website! This is a sleek, modern, single-page application (SPA) built using **HTML, CSS, JavaScript**, and **lit-html** to showcase my projects, education, and skills in a stylish and interactive way.
 
+Here's a demo version, so you can see the final product without downloading it: https://dimitarivanov10.github.io/Portfolio/
+
 ## ✨ Features
 
 - Smooth scrolling navigation 🔗
