@@ -35,7 +35,7 @@ function projectsTemplate() {
             </div>
           </article>
           <article class="project-card">
-            <img class="project-media" src="./assets/CBS_logo.jpg" alt="CBS Website" />
+            <img class="project-media" src="./assets/CBS_noBg.png" alt="CBS Website" />
             <div class="project-content">
               <h3>CBS Website</h3>
               <p class="project-excerpt">Modern SPA for a small hardware company built with TypeScript, HTML and CSS. Clean corporate aesthetic, responsive and modular architecture.</p>
@@ -48,6 +48,25 @@ function projectsTemplate() {
               <div class="project-links">
                 <a href="https://github.com/dimitarivanov10/CBS-Website" target="_blank">GitHub</a>
                 <a href="#" class="disabled">Live Demo</a>
+              </div>
+            </div>
+          </article>
+          <article class="project-card">
+            <img class="project-media" src="./assets/quantum_logo.png" alt="Quantum Engine v1.0" />
+            <div class="project-content">
+              <h3>Quantum Engine v1.0</h3>
+              <p class="project-excerpt">Full-stack 2-qubit quantum circuit simulator with environmental noise models, fidelity analysis and Bloch sphere visualizations. Modular architecture separating computation from presentation.</p>
+              <ul class="tech-list">
+                <li>Python 3.10+</li>
+                <li>FastAPI</li>
+                <li>Qiskit</li>
+                <li>NumPy</li>
+                <li>Matplotlib</li>
+                <li>Uvicorn</li>
+              </ul>
+              <div class="project-links">
+                <a href="https://github.com/dimitarivanov10/Quantum-Circuit-Noise-Sim" target="_blank">GitHub</a>
+                <a href="https://dimitarivanov10.github.io/Quantum-Circuit-Noise-Sim/" target="_blank">Live Demo</a>
               </div>
             </div>
           </article>
