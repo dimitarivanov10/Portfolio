@@ -35,7 +35,7 @@ function projectsTemplate() {
             </div>
           </article>
           <article class="project-card">
-            <img class="project-media" src="./assets/CBS_noBg.png" alt="CBS Website" />
+            <img class="project-media" src="./assets/CBS_NEW_LOGO.jpg" alt="CBS Website" />
             <div class="project-content">
               <h3>CBS Website</h3>
               <p class="project-excerpt">Modern SPA for a small hardware company built with TypeScript, HTML and CSS. Clean corporate aesthetic, responsive and modular architecture.</p>
@@ -52,7 +52,7 @@ function projectsTemplate() {
             </div>
           </article>
           <article class="project-card">
-            <img class="project-media" src="./assets/quantum_logo.png" alt="Quantum Engine v1.0" />
+            <img class="project-media" src="./assets/quantum_circuit_sim_logo.jpg" alt="Quantum Engine v1.0" />
             <div class="project-content">
               <h3>Quantum Engine v1.0</h3>
               <p class="project-excerpt">Full-stack 2-qubit quantum circuit simulator with environmental noise models, fidelity analysis and Bloch sphere visualizations. Modular architecture separating computation from presentation.</p>
