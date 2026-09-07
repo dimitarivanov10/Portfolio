@@ -14,8 +14,27 @@ function projectsTemplate() {
       You can follow my GitHub account for new projects and more:
       <a href="https://github.com/dimitarivanov10">@dimitarivanov10</a>
     </p>
-    <div class="gif-container">
-      <img src="./assets/under_construction.gif" alt="Under Construction" />
-    </div>
+      <div class="project-container">
+        <div class="project-grid">
+          <article class="project-card">
+            <img class="project-media" src="./assets/under_construction.gif" alt="Movie Magic Workshop" />
+            <div class="project-content">
+              <h3>Movie Magic Workshop</h3>
+              <p class="project-excerpt">A full-stack web application for movie enthusiasts to discover, review, and manage movies and casts. Built with modern JavaScript technologies following MVC architecture.</p>
+              <ul class="tech-list">
+                <li>Node.js</li>
+                <li>Express.js</li>
+                <li>MongoDB / Mongoose</li>
+                <li>bcrypt / jsonwebtoken</li>
+                <li>express-handlebars</li>
+              </ul>
+              <div class="project-links">
+                <a href="https://github.com/dimitarivanov10/Softuni-Movie-Magic-Workshop" target="_blank">GitHub</a>
+                <a href="#" class="disabled">Live Demo</a>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
   `;
 }
