@@ -34,6 +34,23 @@ function projectsTemplate() {
               </div>
             </div>
           </article>
+          <article class="project-card">
+            <img class="project-media" src="./assets/CBS_logo.jpg" alt="CBS Website" />
+            <div class="project-content">
+              <h3>CBS Website</h3>
+              <p class="project-excerpt">Modern SPA for a small hardware company built with TypeScript, HTML and CSS. Clean corporate aesthetic, responsive and modular architecture.</p>
+              <ul class="tech-list">
+                <li>TypeScript</li>
+                <li>HTML5</li>
+                <li>CSS3</li>
+                <li>Vite</li>
+              </ul>
+              <div class="project-links">
+                <a href="https://github.com/dimitarivanov10/CBS-Website" target="_blank">GitHub</a>
+                <a href="#" class="disabled">Live Demo</a>
+              </div>
+            </div>
+          </article>
         </div>
       </div>
   `;
