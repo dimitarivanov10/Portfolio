@@ -70,6 +70,25 @@ function projectsTemplate() {
               </div>
             </div>
           </article>
+          <article class="project-card">
+            <img class="project-media" src="./assets/ai_visual_attendance_recognizer.jpg" alt="AI Facial Attendance" />
+            <div class="project-content">
+              <h3>AI-Powered Facial Recognition Attendance</h3>
+              <p class="project-excerpt">Real-time attendance tracking using FaceNet embeddings for high-confidence recognition and a React + Tailwind dashboard for live updates and management.</p>
+              <ul class="tech-list">
+                <li>React (TypeScript)</li>
+                <li>Tailwind CSS</li>
+                <li>FaceNet (Keras)</li>
+                <li>FastAPI</li>
+                <li>OpenCV</li>
+                <li>NumPy</li>
+              </ul>
+              <div class="project-links">
+                <a href="https://github.com/dimitarivanov10/Neural-Face-Analysis" target="_blank">GitHub</a>
+                <a href="#" class="disabled">Live Demo</a>
+              </div>
+            </div>
+          </article>
         </div>
       </div>
   `;
