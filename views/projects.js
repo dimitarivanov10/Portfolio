@@ -17,7 +17,7 @@ function projectsTemplate() {
       <div class="project-container">
         <div class="project-grid">
           <article class="project-card">
-            <img class="project-media" src="./assets/under_construction.gif" alt="Movie Magic Workshop" />
+            <img class="project-media" src="./assets/MovieMagic_logo.jpg" alt="Movie Magic Workshop" />
             <div class="project-content">
               <h3>Movie Magic Workshop</h3>
               <p class="project-excerpt">A full-stack web application for movie enthusiasts to discover, review, and manage movies and casts. Built with modern JavaScript technologies following MVC architecture.</p>
