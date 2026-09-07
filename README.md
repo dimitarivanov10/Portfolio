@@ -1,4 +1,3 @@
-
 # Dimitar Ivanov – Personal Portfolio 🚀
 
 Welcome to my personal portfolio website! This is a sleek, modern, single-page application (SPA) built using **HTML, CSS, JavaScript**, and **lit-html** to showcase my projects, education, and skills in a stylish and interactive way.
